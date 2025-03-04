@@ -12,7 +12,7 @@ I recently published my first OSS project Hella, which can be found [here](https
 
 # 🦸 Alter egos
 
-I could (and have) bore people all day about technologies I use, projects I've been a part of and opinions of best practices for each and every possible situation. Instead, here are the main roles I've played over the years. Expand the drawers for further ramblings.
+I could (and do) bore people all day about technologies I use, projects I've been a part of and opinions of best practices for each and every possible situation. Instead, here are the main roles I've played over the years. Expand the drawers for further ramblings.
 
 ### 🧙‍♂️ The Wizard 
 
