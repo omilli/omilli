@@ -1,12 +1,14 @@
 # 👋 Hi There
 
-I'm affectionately known to my friends as the "web guy". I've been writing code and building things on the web professionally for ~15 years and nearly two decades. I traded GitHub, CV, and portfolio glory for proprietary software money, career progression, job stability, and a remote lifestyle. 
+I've been writing code and building on the web professionally for ~15 years, and nearly two decades in total. I traded GitHub, CV, and portfolio glory for proprietary software money, career progression, job stability, and a remote lifestyle. 
 
-Professionally and personally, I wear many hats, as described below, commonly known as a "jack of all trades". Each day or hour, I can switch gears and perform a different role.
+Professionally and personally, I wear many hats. My main skills are UI development and technical project management, but each day or hour, I can switch gears and perform a different role if needed.
 
 I've worked remotely with clients, designers, developers, content writers and others from the UK, Spain, Vietnam, Singapore, Russia, Estonia, Ukraine, Indonesia, Malaysia, Australia, Canada and the USA.
 
 As of 2025, I am looking for a new adventure in AI or web3. The chances of joining a digital agency are low (never say never).
+
+I've recently published my first OSS project Hella, which can be found [here](https://github.com/omilli/hella).
 
 Auto-correct is simultaneously humanity's best and worst invention - **change my mind**
 
@@ -58,7 +60,7 @@ Auto-correct is simultaneously humanity's best and worst invention - **change my
   - (Web3|Ethers)JS
   - Solidity/Hardhat
 
-  Please note:
+  **Please note:**
   I am a senior-level developer with experience and interest in these technologies. I don't use them all daily, and I can't remember/explain every concept off the top of my head. However, I can easily (re)immerse myself in any technology for a relatively short period and bring myself up to speed. 
 </details>
 
