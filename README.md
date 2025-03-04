@@ -1,6 +1,20 @@
-### 🧙‍♂️ The Wizard
+# 👋 Hi There
 
-**tl;dr**: A remote veteran with 15 years of technical, creative and management experience. Thinks getting stuff done is more valuable than knowledge accumulation. Occasionally forgets how to use a pen. Auto-correct is simultaneously humanity's best and worst invention - **change my mind**. 
+I'm affectionately known to my friends as the "web guy". I've been writing code and building things on the web professionally for ~15 years and nearly two decades. I traded GitHub, CV, and portfolio glory for proprietary software money, career progression, job stability, and a remote lifestyle. 
+
+Professionally and personally, I wear many hats, as described below, commonly known as a "jack of all trades". Each day or hour, I can switch gears and perform a different role.
+
+I've worked remotely with clients, designers, developers, content writers and others from the UK, Spain, Vietnam, Singapore, Russia, Estonia, Ukraine, Indonesia, Malaysia, Australia, Canada and the USA.
+
+As of 2025, I am looking for a new adventure in AI or web3. The chances of joining a digital agency are low (never say never).
+
+Auto-correct is simultaneously humanity's best and worst invention - **change my mind**
+
+# 🦸 Alter egos
+
+### 🧙‍♂️ The Wizard 
+
+**tl;dr**: A remote veteran with technical, creative and management experience. Thinks getting stuff done is more valuable than knowledge accumulation. Occasionally forgets how to use a pen. 
 
 <details>
   <summary>The Lord of the Web III</summary>
@@ -13,10 +27,6 @@
   Over ten years, I have hired, trained and led ~20 remote full-time and freelance staff from Europe and Asia. Our team supports the core business 24 hours a day, and I value personality and teamwork over someone's immediate knowledge of a particular subject or technology.
 
   I consider myself a web solution architect, a full-stack developer, a UX/UI designer and a technical project manager. I'm passionate about the entire project lifecycle but now focused more on project architecture, UI development, performance, and Agile project management.
-
-  I've worked remotely with clients, designers, developers, content writers and others from the UK, Spain, Vietnam, Singapore, Russia, Estonia, Ukraine, Indonesia, Malaysia, Australia, Canada and the USA.
-
-  As of 2025, I am looking for a new adventure in Saas and/or AI and/or web3. I'm extremely unlikely to join a digital agency or work on proprietary software again (never say never). 
 </details>
 
 ### 🧑‍🔬 The Nerd
@@ -80,5 +90,5 @@
 
   Since 2014, I've bridged the gap between C-suite/director-level stakeholders, team members and end users, transforming their visions and issues into actionable strategies. I thrive on turning visions into reality and finding solutions to obscure problems. Most things start with ambiguity. If I say "I don't know", it's always followed by "yet".
 
-I don't have a PM/Scrum certificate, but I've scaled multiple projects in a connected ecosystem and built a solid team over ten years. I've successfully dealt with personnel, budget, deadline, and other hurdles consistently over that period. Even when I'm not working I enjoy solving high level problems at speed while playing and coaching sports, or playing games like chess. 
+  I don't have a PM/Scrum certificate, but I've scaled multiple projects in a connected ecosystem and built a solid team over ten years. I've successfully dealt with personnel, budget, deadline, and other hurdles consistently over that period. Even when I'm not working I enjoy solving high level problems at speed while playing and coaching sports, or playing games like chess. 
 </details>
