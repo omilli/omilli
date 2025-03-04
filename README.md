@@ -1,4 +1,6 @@
-# 👋 Hi There
+# omilli
+
+💻🏖️⛳🎾🥩🍷
 
 I've been writing code and building on the web professionally for ~15 years, and nearly two decades in total. I traded GitHub, CV, and portfolio glory for proprietary software money, career progression, job stability, and a remote lifestyle. 
 
@@ -10,13 +12,15 @@ As of 2025, I am looking for a new adventure in AI or web3. The chances of joini
 
 I've recently published my first OSS project Hella, which can be found [here](https://github.com/omilli/hella).
 
-Auto-correct is simultaneously humanity's best and worst invention - **change my mind**
+*Auto-correct is simultaneously humanity's best and worst invention - **change my mind***
 
 # 🦸 Alter egos
 
+I could (and have) bore people all day about technologies I use, projects I've been a part of and opinions of best practices for each and every possible situation. Instead, here are the main roles I've played over the years. Expand the drawers for further ramblings.
+
 ### 🧙‍♂️ The Wizard 
 
-**tl;dr**: A remote veteran with technical, creative and management experience. Thinks getting stuff done is more valuable than knowledge accumulation. Occasionally forgets how to use a pen. 
+**tl;dr**: A remote veteran with technical, creative and management experience. Thinks getting stuff done is more valuable than knowledge accumulation. Great at making magic... occasionally forgets how to use a pen. 
 
 <details>
   <summary>The Lord of the Web III</summary>
@@ -33,7 +37,7 @@ Auto-correct is simultaneously humanity's best and worst invention - **change my
 
 ### 🧑‍🔬 The Nerd
 
-**tl;dr**: At home (literally and figuratively) building Javascript libraries or using `any` combination of dependencies for `any` project type. `(ts > js && window > global)`. A blockchain enthusiast with an eye on web3 development and a basic understanding of smart contracts.
+**tl;dr**: At home (literally and figuratively) building Javascript libraries or using **any** combination of dependencies for **any** project type. A blockchain enthusiast with an eye on web3 development and a basic understanding of smart contracts. `(ts > js && window > global)`
 
 <details>
   <summary>javascript.readMore();</summary>
