@@ -1,6 +1,6 @@
 # omilli
 
-💻🏖️⛳🎾🥩🍷
+### 💻🏖️⛳🎾🥩🍷
 
 I've been writing code and building on the web professionally for ~15 years, and nearly two decades in total. I traded GitHub, CV, and portfolio glory for proprietary software money, career progression, job stability, and a remote lifestyle. 
 
