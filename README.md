@@ -24,7 +24,7 @@ I could (and do) bore people all day about technologies I use, projects I've bee
   
   I'm the technical director at one of the UK's largest event and facility management companies, and I'm responsible for delivering web apps used at some of the UK's largest events, static locations, and public spaces.
 
-  My first lines of Stambridge code in 2014 morphed into an ecosystem of real-time web apps and microservices, used 24 hours a day by ~25 back-office staff, hundreds of clients and thousands of ground staff. 
+  My first lines of company code in 2014 morphed into an ecosystem of real-time web apps and microservices, used 24 hours a day by ~25 back-office staff, hundreds of clients and thousands of ground staff. 
 
   Over ten years, I have hired, trained and led ~20 remote full-time and freelance staff from Europe and Asia. Our team supports the core business 24 hours a day, and I value personality and teamwork over someone's immediate knowledge of a particular subject or technology.
 
