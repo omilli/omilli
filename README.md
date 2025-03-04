@@ -27,7 +27,7 @@
   <summary>javascript.readMore();</summary>
   <br>
 
-  Back in 2010, I was a jQuery ninja, building UI components and utility libraries with the famous $. I went through a Knockout/Backbone/Ember phase before settling on React, Angular and everything in between.
+  Back in 2010, I was a jQuery ninja, building UI components and utility libraries with the famous $. I went through a Knockout/Backbone/Ember phase before focusing on React and Angular while still trying everything in between. Of the most recent frameworks, I think Astro and NextJS are the most interesting to work with. 
 
   Building things with zero dependency JavaScript is fun but rarely practical in a work environment. I don't have strong opinions about this vs that framework or library. Everything is just an abstraction, a dialect of a language I've spoken for 15 years.
 
