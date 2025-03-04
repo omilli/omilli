@@ -3,8 +3,8 @@
 **tl;dr**: A remote veteran with 15 years of technical, creative and management experience. Thinks getting stuff done is more valuable than knowledge accumulation. Not a one-man army, more like two-thirds of the puzzle. Occasionally forgets how to use a pen. Auto-correct is simultaneously humanity's best and worst invention - **prove me wrong**. 
 
 <details>
-  <summary style="padding: 5px; background-color: #1e1e1e; border: 1px solid #333; border-radius: 3px; font-family: 'Courier New', Courier, monospace; color:rgb(192, 211, 226); font-weight: semi-bold; margin-bottom: 8px;">The Lord of the Web III</summary>
-
+  <summary>The Lord of the Web III</summary>
+  <br>
   I'm the technical director at one of the UK's largest event and facility management companies, and I'm responsible for delivering web apps used at some of the UK's largest events, static locations, and public spaces.
 
   My first lines of Stambridge code in 2014 morphed into an ecosystem of real-time web apps and microservices, used 24 hours a day by ~25 back-office staff, hundreds of clients and thousands of ground staff. 
@@ -23,8 +23,8 @@
 **tl;dr**: At home building Javascript libraries or using `any` combination of dependencies for `any` project type. `(ts > js && window > global)`. A blockchain enthusiast with an eye on web3 development and a basic understanding of smart contracts.
 
 <details>
-  <summary style="padding: 5px; background-color: #1e1e1e; border: 1px solid #333; border-radius: 3px; font-family: 'Courier New', Courier, monospace; color:rgb(192, 211, 226); font-weight: semi-bold; margin-bottom: 8px;">javascript.readMore();</summary>
-
+  <summary>javascript.readMore();</summary>
+  <br>
   Back in 2010, I was a jQuery ninja, building UI components and utility libraries with the famous $. I went through a Knockout/Backbone/Ember phase before settling on React, Angular and everything in between.
 
   Building things with zero dependency JavaScript is fun but rarely practical in a work environment. I don't have strong opinions about this vs that framework or library. Everything is just an abstraction, a dialect of a language I've spoken for 15 years.
@@ -55,8 +55,8 @@
 **tl;dr**: A failed website designer turned front-end developer accidentally becomes a CSS-driven UI designer. Thinks CSS Designer should be a job title. If my life depended on writing vanilla CSS in a terminal, I'd be fine. Old enough to have built websites in Flash and Dreamweaver.
 
 <details>
-  <summary style="padding: 5px; background-color: #1e1e1e; border: 1px solid #333; border-radius: 3px; font-family: 'Courier New', Courier, monospace; color:rgb(192, 211, 226); font-weight: semi-bold; margin-bottom: 8px;">.css-designer{read:more}</summary>
-
+  <summary>.css-designer{read:more}</summary>
+  <br>
   In one of my first roles I delivered a web app without using any design software. All we had were paper wireframes and an early version of Bootstrap. Turns out I had a skill for creating user-friendly app interfaces, not "pixel-perfect" websites.
 
   I've always been passionate about designing apps and working with design systems. From a technical perspective, I've journeyed from plain old CSS to LESS and SCSS, then onto Tailwind, PostCSS and CSS-in-JS, and I've always treated CSS as a first-class citizen.
@@ -70,8 +70,8 @@
 
 
 <details>
-  <summary style="padding: 5px; background-color: #1e1e1e; border: 1px solid #333; border-radius: 3px; font-family: 'Courier New', Courier, monospace; color:rgb(192, 211, 226); font-weight: semi-bold; margin-bottom: 8px;">Close the drawer when you're done</summary>
-
+  <summary>Close the drawer when you're done</summary>
+  <br>
   Kanban boards, sprints and to-do lists are at the core of my process. My categories have categories, and I prefer frequent communication over maintaining documentation. Building up ideas and then breaking them into manageable chunks is second nature, and visualizing projects as a series of tasks and sub-tasks is a core strength of mine. 
 
   Since 2014, I've bridged the gap between C-suite/director-level stakeholders, team members and end users, transforming their visions and issues into actionable strategies. I thrive on turning visions into reality and finding solutions to obscure problems. Most things start with ambiguity. If I say "I don't know", it's always followed by "yet".
