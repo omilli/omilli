@@ -6,7 +6,7 @@ I've worked remotely with clients, designers, developers, content writers and ot
 
 As of 2025, I am looking for a new adventure in AI or web3. The chances of joining a digital agency are low (never say never).
 
-I've recently published my first OSS project Hella, which can be found [here](https://github.com/omilli/hella).
+I recently published my first OSS project Hella, which can be found [here](https://github.com/omilli/hella).
 
 *Auto-correct is simultaneously humanity's best and worst invention - **change my mind***
 
