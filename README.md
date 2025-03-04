@@ -5,6 +5,7 @@
 <details>
   <summary>The Lord of the Web III</summary>
   <br>
+  
   I'm the technical director at one of the UK's largest event and facility management companies, and I'm responsible for delivering web apps used at some of the UK's largest events, static locations, and public spaces.
 
   My first lines of Stambridge code in 2014 morphed into an ecosystem of real-time web apps and microservices, used 24 hours a day by ~25 back-office staff, hundreds of clients and thousands of ground staff. 
@@ -25,6 +26,7 @@
 <details>
   <summary>javascript.readMore();</summary>
   <br>
+
   Back in 2010, I was a jQuery ninja, building UI components and utility libraries with the famous $. I went through a Knockout/Backbone/Ember phase before settling on React, Angular and everything in between.
 
   Building things with zero dependency JavaScript is fun but rarely practical in a work environment. I don't have strong opinions about this vs that framework or library. Everything is just an abstraction, a dialect of a language I've spoken for 15 years.
@@ -57,6 +59,7 @@
 <details>
   <summary>.css-designer{read:more}</summary>
   <br>
+
   In one of my first roles I delivered a web app without using any design software. All we had were paper wireframes and an early version of Bootstrap. Turns out I had a skill for creating user-friendly app interfaces, not "pixel-perfect" websites.
 
   I've always been passionate about designing apps and working with design systems. From a technical perspective, I've journeyed from plain old CSS to LESS and SCSS, then onto Tailwind, PostCSS and CSS-in-JS, and I've always treated CSS as a first-class citizen.
@@ -72,8 +75,9 @@
 <details>
   <summary>Close the drawer when you're done</summary>
   <br>
-  Kanban boards, sprints and to-do lists are at the core of my process. My categories have categories, and I prefer frequent communication over maintaining documentation. Building up ideas and then breaking them into manageable chunks is second nature, and visualizing projects as a series of tasks and sub-tasks is a core strength of mine.
-  
+
+  Kanban boards, sprints and to-do lists are at the core of my process. My categories have categories, and I prefer frequent communication over maintaining documentation. Building up ideas and then breaking them into manageable chunks is second nature, and visualizing projects as a series of tasks and sub-tasks is a core strength of mine. 
+
   Since 2014, I've bridged the gap between C-suite/director-level stakeholders, team members and end users, transforming their visions and issues into actionable strategies. I thrive on turning visions into reality and finding solutions to obscure problems. Most things start with ambiguity. If I say "I don't know", it's always followed by "yet".
 
   Managing a team is about getting the best out of a combination of unique individuals. Typically, people with a higher skill level and more experience prefer autonomy, finding solutions to complex problems in shorter periods with more intense focus. They may need a different type of schedule than someone with only a few years of experience. Mid-level team members are often ready and willing to break into a senior role with guidance, and junior members sometimes yearn for learning opportunities when stuck in repetitive, mundane tasks.
