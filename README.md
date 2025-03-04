@@ -76,7 +76,7 @@
   <summary>Close the drawer when you're done</summary>
   <br>
 
-  Kanban boards, sprints and to-do lists are at the core of my process. My categories have categories, and I prefer frequent communication over maintaining documentation. Building up ideas and then breaking them into manageable chunks is second nature, and visualizing projects as a series of tasks and sub-tasks is a core strength of mine. 
+  Kanban boards, sprints and to-do lists are at the core of my daily life. My categories have categories, and I prefer frequent communication over maintaining documentation. Building up ideas and then breaking them into manageable chunks is second nature, and visualizing projects as a series of tasks and sub-tasks is a core strength of mine. 
 
   Since 2014, I've bridged the gap between C-suite/director-level stakeholders, team members and end users, transforming their visions and issues into actionable strategies. I thrive on turning visions into reality and finding solutions to obscure problems. Most things start with ambiguity. If I say "I don't know", it's always followed by "yet".
 
