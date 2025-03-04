@@ -1,6 +1,6 @@
 ### 🧙‍♂️ The Wizard
 
-**tl;dr**: A remote veteran with 15 years of technical, creative and management experience. Thinks getting stuff done is more valuable than knowledge accumulation. Not a one-man army, more like two-thirds of the puzzle. Occasionally forgets how to use a pen. Auto-correct is simultaneously humanity's best and worst invention - **prove me wrong**. 
+**tl;dr**: A remote veteran with 15 years of technical, creative and management experience. Thinks getting stuff done is more valuable than knowledge accumulation. Occasionally forgets how to use a pen. Auto-correct is simultaneously humanity's best and worst invention - **prove me wrong**. 
 
 <details>
   <summary>The Lord of the Web III</summary>
