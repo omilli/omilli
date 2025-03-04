@@ -5,17 +5,17 @@
 <details>
   <summary style="padding: 5px; background-color: #1e1e1e; border: 1px solid #333; border-radius: 3px; font-family: 'Courier New', Courier, monospace; color:rgb(192, 211, 226);">The Lord of the Web III</summary>
 
-    I'm the technical director at one of the UK's largest event and facility management companies, and I'm responsible for delivering web apps used at some of the UK's largest events, static locations, and public spaces.
+  I'm the technical director at one of the UK's largest event and facility management companies, and I'm responsible for delivering web apps used at some of the UK's largest events, static locations, and public spaces.
 
-    My first lines of Stambridge code in 2014 morphed into an ecosystem of real-time web apps and microservices, used 24 hours a day by ~25 back-office staff, hundreds of clients and thousands of ground staff. 
+  My first lines of Stambridge code in 2014 morphed into an ecosystem of real-time web apps and microservices, used 24 hours a day by ~25 back-office staff, hundreds of clients and thousands of ground staff. 
 
-    Over ten years, I have hired, trained and led ~20 remote full-time and freelance staff from Europe and Asia. Our team supports the core business 24 hours a day, and I value personality and teamwork over someone's immediate knowledge of a particular subject or technology.
+  Over ten years, I have hired, trained and led ~20 remote full-time and freelance staff from Europe and Asia. Our team supports the core business 24 hours a day, and I value personality and teamwork over someone's immediate knowledge of a particular subject or technology.
 
-    I consider myself a web solution architect, a full-stack developer, a UX/UI designer and a technical project manager. I'm passionate about the entire project lifecycle but now focused more on project architecture, UI development, performance, and Agile project management.
+  I consider myself a web solution architect, a full-stack developer, a UX/UI designer and a technical project manager. I'm passionate about the entire project lifecycle but now focused more on project architecture, UI development, performance, and Agile project management.
 
-    I've worked remotely with clients, designers, developers, content writers and others from the UK, Spain, Vietnam, Singapore, Russia, Estonia, Ukraine, Indonesia, Malaysia, Australia, Canada and the USA.
+  I've worked remotely with clients, designers, developers, content writers and others from the UK, Spain, Vietnam, Singapore, Russia, Estonia, Ukraine, Indonesia, Malaysia, Australia, Canada and the USA.
 
-    As of 2025, I am looking for a new adventure. Will you be my precious?
+  As of 2025, I am looking for a new adventure. Will you be my precious?
 </details>
 
 ### 🧑‍🔬 The Nerd
@@ -25,29 +25,29 @@
 <details>
   <summary style="padding: 5px; background-color: #1e1e1e; border: 1px solid #333; border-radius: 3px; font-family: 'Courier New', Courier, monospace; color:rgb(192, 211, 226);">javascript.readMore();</summary>
 
-    Back in 2010, I was a jQuery ninja, building UI components and utility libraries with the famous $. I went through a Knockout/Backbone/Ember phase before settling on React, Angular and everything in between.
+  Back in 2010, I was a jQuery ninja, building UI components and utility libraries with the famous $. I went through a Knockout/Backbone/Ember phase before settling on React, Angular and everything in between.
 
-    Building things with zero dependency JavaScript is fun but rarely practical in a work environment. I don't have strong opinions about this vs that framework or library. Everything is just an abstraction, a dialect of a language I've spoken for 15 years.
+  Building things with zero dependency JavaScript is fun but rarely practical in a work environment. I don't have strong opinions about this vs that framework or library. Everything is just an abstraction, a dialect of a language I've spoken for 15 years.
 
-    Below are some of the technologies I've used over the years. It's not a comprehensive list and excludes anything I know but don't enjoy. 
+  Below are some of the technologies I've used over the years. It's not a comprehensive list and excludes anything I know but don't enjoy. 
 
-    - NodeJS
-    - Angular Ecosystem
-    - React Ecosystem
-    - NextJS
-    - Ionic
-    - Astro
-    - HTML/(S)CSS/Tailwind
-    - Express/NestJS/MongoDB
-    - REST/GraphQL/Websockets
-    - Progressive Web Apps
-    - Unit Testing (Vitest, Jest, etc...)
-    - e2e Testing (Cypress/Playwright)
-    - (Web3|Ethers)JS
-    - Solidity/Hardhat
+  - NodeJS
+  - Angular Ecosystem
+  - React Ecosystem
+  - NextJS
+  - Ionic
+  - Astro
+  - HTML/(S)CSS/Tailwind
+  - Express/NestJS/MongoDB
+  - REST/GraphQL/Websockets
+  - Progressive Web Apps
+  - Unit Testing (Vitest, Jest, etc...)
+  - e2e Testing (Cypress/Playwright)
+  - (Web3|Ethers)JS
+  - Solidity/Hardhat
 
-    Please note:
-    I am a senior-level developer with experience and interest in these technologies. I don't use them all daily, and I can't remember/explain every concept off the top of my head. However, I can easily (re)immerse myself in any technology for a relatively short period and bring myself up to speed. 
+  Please note:
+  I am a senior-level developer with experience and interest in these technologies. I don't use them all daily, and I can't remember/explain every concept off the top of my head. However, I can easily (re)immerse myself in any technology for a relatively short period and bring myself up to speed. 
 </details>
 
 ### 🧑‍🎨 The Creator
@@ -57,11 +57,11 @@
 <details>
   <summary style="padding: 5px; background-color: #1e1e1e; border: 1px solid #333; border-radius: 3px; font-family: 'Courier New', Courier, monospace; color:rgb(192, 211, 226);">.css-designer{read:more}</summary>
 
-    In one of my first roles I delivered a web app without using any design software. All we had were paper wireframes and an early version of Bootstrap. Turns out I had a skill for creating user-friendly app interfaces, not "pixel-perfect" websites.
+  In one of my first roles I delivered a web app without using any design software. All we had were paper wireframes and an early version of Bootstrap. Turns out I had a skill for creating user-friendly app interfaces, not "pixel-perfect" websites.
 
-    I've always been passionate about designing apps and working with design systems. From a technical perspective, I've journeyed from plain old CSS to LESS and SCSS, then onto Tailwind, PostCSS and CSS-in-JS, and I've always treated CSS as a first-class citizen.
+  I've always been passionate about designing apps and working with design systems. From a technical perspective, I've journeyed from plain old CSS to LESS and SCSS, then onto Tailwind, PostCSS and CSS-in-JS, and I've always treated CSS as a first-class citizen.
 
-    I think the days of spending hours in design software and handing off static designs are long gone. Much of modern interface design is dynamic, iterative,  and often centres around pre-existing UI libraries. Having a UI/CSS-focused developer, separate from business logic, is a great idea.
+  I think the days of spending hours in design software and handing off static designs are long gone. Much of modern interface design is dynamic, iterative,  and often centres around pre-existing UI libraries. Having a UI/CSS-focused developer, separate from business logic, is a great idea.
 </details>
 
 ### 👨‍💻 The Organizer
@@ -72,9 +72,9 @@
 <details>
   <summary style="padding: 5px; background-color: #1e1e1e; border: 1px solid #333; border-radius: 3px; font-family: 'Courier New', Courier, monospace; color:rgb(192, 211, 226);">Close the drawer when you're done</summary>
 
-    Kanban boards, sprints and to-do lists are at the core of my process. My categories have categories, and I prefer frequent communication over maintaining documentation. Building up ideas and then breaking them into manageable chunks is second nature, and visualizing projects as a series of tasks and sub-tasks is a core strength of mine. 
+  Kanban boards, sprints and to-do lists are at the core of my process. My categories have categories, and I prefer frequent communication over maintaining documentation. Building up ideas and then breaking them into manageable chunks is second nature, and visualizing projects as a series of tasks and sub-tasks is a core strength of mine. 
 
-    Since 2014, I've bridged the gap between C-suite/director-level stakeholders, team members and end users, transforming their visions and issues into actionable strategies. I thrive on turning visions into reality and finding solutions to obscure problems. Most things start with ambiguity. If I say "I don't know", it's always followed by "yet".
+  Since 2014, I've bridged the gap between C-suite/director-level stakeholders, team members and end users, transforming their visions and issues into actionable strategies. I thrive on turning visions into reality and finding solutions to obscure problems. Most things start with ambiguity. If I say "I don't know", it's always followed by "yet".
 
-    Managing a team is about getting the best out of a combination of unique individuals. Typically, people with a higher skill level and more experience prefer autonomy, finding solutions to complex problems in shorter periods with more intense focus. They may need a different type of schedule than someone with only a few years of experience. Mid-level team members are often ready and willing to break into a senior role with guidance, and junior members sometimes yearn for learning opportunities when stuck in repetitive, mundane tasks.
+  Managing a team is about getting the best out of a combination of unique individuals. Typically, people with a higher skill level and more experience prefer autonomy, finding solutions to complex problems in shorter periods with more intense focus. They may need a different type of schedule than someone with only a few years of experience. Mid-level team members are often ready and willing to break into a senior role with guidance, and junior members sometimes yearn for learning opportunities when stuck in repetitive, mundane tasks.
 </details>
