@@ -80,5 +80,5 @@
 
   Since 2014, I've bridged the gap between C-suite/director-level stakeholders, team members and end users, transforming their visions and issues into actionable strategies. I thrive on turning visions into reality and finding solutions to obscure problems. Most things start with ambiguity. If I say "I don't know", it's always followed by "yet".
 
-  Managing a team is about getting the best out of a combination of unique individuals. Typically, people with a higher skill level and more experience prefer autonomy, finding solutions to complex problems in shorter periods with more intense focus. They may need a different type of schedule than someone with only a few years of experience. Mid-level team members are often ready and willing to break into a senior role with guidance, and junior members sometimes yearn for learning opportunities when stuck in repetitive, mundane tasks.
+I don't have a PM/Scrum certificate, but I've scaled multiple projects in a connected ecosystem and built a solid team over ten years. I've successfully dealt with personnel, budget, deadline, and other hurdles consistently over that period. When I'm not working I'm solving high level problems at speed playing and coaching sports, or playing games like chess and the similarities are outstanding. 
 </details>
