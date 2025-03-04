@@ -16,7 +16,7 @@
 
   I've worked remotely with clients, designers, developers, content writers and others from the UK, Spain, Vietnam, Singapore, Russia, Estonia, Ukraine, Indonesia, Malaysia, Australia, Canada and the USA.
 
-  As of 2025, I am looking for a new adventure, Saas and/or AI and/or web3 preferably. I'm extremely unlikely to join a digital agency (never say never). 
+  As of 2025, I am looking for a new adventure in Saas and/or AI and/or web3. I'm extremely unlikely to join a digital agency or work on proprietary software again (never say never). 
 </details>
 
 ### 🧑‍🔬 The Nerd
