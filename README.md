@@ -2,7 +2,7 @@
 
 ### 💻🏖️⛳🎾🥩🍷
 
-I've been writing code and building on the web professionally for ~15 years, and nearly two decades in total. I traded GitHub, CV, and portfolio glory for proprietary software money, career progression, job stability, and a remote lifestyle. 
+I've been writing code and building on the web professionally for ~15 years, and nearly two decades in total. I traded GitHub, CV, and portfolio glory for proprietary software money, career progression, job stability, and a remote lifestyle.
 
 Professionally and personally, I wear many hats. My main skills are UI development and technical project management, but each day or hour, I can switch gears and perform a different role if needed.
 
@@ -20,7 +20,7 @@ I could (and have) bore people all day about technologies I use, projects I've b
 
 ### 🧙‍♂️ The Wizard 
 
-**tl;dr**: A remote veteran with technical, creative and management experience. Thinks getting stuff done is more valuable than knowledge accumulation. Great at making magic... occasionally forgets how to use a pen. 
+**tl;dr**: A remote veteran with technical, creative and management expertise. Thinks getting stuff done is more valuable than knowledge accumulation. Great at making magic... occasionally forgets how to use a pen. 
 
 <details>
   <summary>The Lord of the Web III</summary>
@@ -70,7 +70,7 @@ I could (and have) bore people all day about technologies I use, projects I've b
 
 ### 🧑‍🎨 The Creator
 
-**tl;dr**: A failed website designer turned front-end developer accidentally becomes a CSS-driven UI designer. Thinks CSS Designer should be a job title. If my life depended on writing vanilla CSS in a terminal, I'd be fine. Old enough to have built websites in Flash and Dreamweaver.
+**tl;dr**: A failed website designer turned front-end developer accidentally becomes a CSS-driven UI designer. Thinks CSS Designer should be a job title. If my life depended on writing vanilla CSS in a terminal, I'd be fine.
 
 <details>
   <summary>.css-designer{read:more}</summary>
