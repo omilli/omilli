@@ -20,7 +20,7 @@
 
 ### 🧑‍🔬 The Nerd
 
-**tl;dr**: At home building Javascript libraries or using `any` combination of dependencies for `any` project type. `(ts > js && window > global)`. A blockchain enthusiast with an eye on web3 development and a basic understanding of smart contracts.
+**tl;dr**: At home (literally and figuratively) building Javascript libraries or using `any` combination of dependencies for `any` project type. `(ts > js && window > global)`. A blockchain enthusiast with an eye on web3 development and a basic understanding of smart contracts.
 
 <details>
   <summary>javascript.readMore();</summary>
