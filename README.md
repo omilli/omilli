@@ -1,8 +1,6 @@
 ### 💻🏖️⛳🎾🥩🍷
 
-I've been writing code and building on the web professionally for ~15 years, and nearly two decades in total. I traded GitHub, CV, and portfolio glory for proprietary software money, career progression, job stability, and a remote lifestyle.
-
-Professionally and personally, I wear many hats. My main skills are UI development and technical project management, but each day or hour, I can switch gears and perform a different role if needed.
+I've been writing code and building on the web professionally for ~15 years, and nearly two decades in total. Professionally and personally, I wear many hats. My main skills are UI development and technical project management, but each day or hour, I can switch gears and perform a different role if needed.
 
 I've worked remotely with clients, designers, developers, content writers and others from the UK, Spain, Vietnam, Singapore, Russia, Estonia, Ukraine, Indonesia, Malaysia, Australia, Canada and the USA.
 
