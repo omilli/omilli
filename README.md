@@ -1,14 +1,16 @@
 ### 💻🏖️⛳🎾🥩🍷
 
-I've been writing code and building on the web professionally for ~15 years, and nearly two decades in total. Professionally and personally, I wear many hats. My main skills are UI development and technical project management, but each day or hour, I can switch gears and perform a different role if needed.
+I've been writing code and building on the web professionally for ~15 years, and nearly two decades in total. My main skills are JavaScript development and technical project management, but each day or hour I can switch gears and perform a different role if needed. I wear many hats (see below).
 
-I've worked remotely with clients, designers, developers, content writers and others from the UK, Spain, Vietnam, Singapore, Russia, Estonia, Ukraine, Indonesia, Malaysia, Australia, Canada and the USA.
+I'm the technical director at one of the UK's largest event and facility management companies, and I'm responsible for delivering web apps used at some of the UK's largest events, static locations, and public spaces.
 
-As of 2025, I am looking for a new adventure in AI or web3. The chances of joining a digital agency are low (never say never).
+My first lines of company code in 2014 morphed into an ecosystem of real-time web apps and microservices, used 24 hours a day by ~25 back-office staff, hundreds of clients and thousands of ground staff. 
 
-I recently published my first open-source project, [Hella](https://github.com/omilli/hella).
+I recently published my first open-source project, [Hella](https://github.com/omilli/hella). I'm also working on a project that transforms natural language into GraphQL queries to query blockchain data from [The Graph](https://thegraph.com/). Once I make enough progress I'll publish it and add a link here.
 
-*Auto-correct is simultaneously humanity's best and worst invention - **change my mind***
+As of 2025, I am looking for a new adventure in AI or web3.
+
+*Auto-correct is simultaneously humanity's best and worst invention - **change my mind***.
 
 # 🦸 Alter egos
 
@@ -21,14 +23,11 @@ I could (and do) bore people all day about technologies I use, projects I've bee
 <details>
   <summary>The Lord of the Web III</summary>
   <br>
-  
-  I'm the technical director at one of the UK's largest event and facility management companies, and I'm responsible for delivering web apps used at some of the UK's largest events, static locations, and public spaces.
-
-  My first lines of company code in 2014 morphed into an ecosystem of real-time web apps and microservices, used 24 hours a day by ~25 back-office staff, hundreds of clients and thousands of ground staff. 
-
-  Over ten years, I have hired, trained and led ~20 remote full-time and freelance staff from Europe and Asia. Our team supports the core business 24 hours a day, and I value personality and teamwork over someone's immediate knowledge of a particular subject or technology.
-
   I consider myself a web solution architect, a full-stack developer, a UX/UI designer and a technical project manager. I'm passionate about the entire project lifecycle but now focused more on project architecture, UI development, performance, and Agile project management.
+
+  Over ten years, I have hired, trained and led ~20 remote full-time and freelance staff from Europe and Asia, and I'm responsible for a team that supports our core business 24 hours a day.
+  
+  I've worked remotely with clients, designers, developers, content writers and others from the UK, Spain, Vietnam, Singapore, Russia, Estonia, Ukraine, Indonesia, Malaysia, Australia, Canada and the USA.
 </details>
 
 ### 🧑‍🔬 The Nerd
@@ -81,16 +80,16 @@ I could (and do) bore people all day about technologies I use, projects I've bee
 
 ### 👨‍💻 The Organizer
 
-**tl;dr**: Occasionally hears "you have OCD". Thinks less is more when it comes to getting the best out of people and treats life like one big project broken into a series of sprints. Loves pattern detection, analysis and making people's lives easier.
+**tl;dr**: Occasionally hears "you have OCD". Thinks less is more when it comes to getting the best out of people and treats life like one big project broken into a series of sprints. Loves pattern detection, problem solving, and making people's lives easier.
 
 
 <details>
   <summary>Close the drawer when you're done</summary>
   <br>
 
-  Kanban boards, sprints and to-do lists are at the core of my daily life. My categories have categories, and I prefer frequent communication over maintaining documentation. Building up ideas and then breaking them into manageable chunks is second nature, and visualizing projects as a series of tasks and sub-tasks is a core strength of mine. 
+  Kanban boards, sprints and to-do lists are at the core of my daily life. My categories have categories, and I prefer frequent communication over maintaining documentation. Visualizing projects, expanding up ideas, and then breaking them into a series of tasks and sub-tasks is second nature. 
 
-  Since 2014, I've bridged the gap between C-suite/director-level stakeholders, team members and end users, transforming their visions and issues into actions. I thrive on turning ideas into reality and finding solutions to obscure problems. Most things start with ambiguity. If I say "I don't know", it's always followed by "yet".
+  Since 2014, I've bridged the gap between C-suite/director-level stakeholders, team members and end users, transforming their visions and issues into actions. Most things start with ambiguity, if I say "I don't know", it's always followed by "yet".
 
-  I don't have a PM/Scrum certificate, but I've scaled multiple projects in a connected ecosystem and built a solid team over ten years. I've successfully dealt with personnel, budget, deadline, and other hurdles consistently over that period. Even when I'm not working I enjoy solving high level problems at speed while playing and coaching sports, or playing games like chess. 
+  I've scaled multiple projects in a connected ecosystem and built a solid team over a decade. I've successfully dealt with personnel, budget, deadline, and other hurdles consistently. When I'm not working I also enjoy solving problems at speed by playing sports, and playing games like chess. 
 </details>
