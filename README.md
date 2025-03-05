@@ -1,12 +1,12 @@
 ### 💻🏖️⛳🎾🥩🍷
 
-I've been writing code and building on the web professionally for ~15 years, and nearly two decades in total. My main skills are JavaScript development and technical project management, but each day or hour I can switch gears and perform a different role if needed. I wear many hats (see below).
+I've been writing code and building on the web professionally for ~15 years, nearly two decades in total. My core skills are JavaScript development and technical project management, but I can switch gears and perform a different role at will... I wear many hats (see below).
 
 I'm the technical director at one of the UK's largest event and facility management companies, and I'm responsible for delivering web apps used at some of the UK's largest events, static locations, and public spaces.
 
-My first lines of company code in 2014 morphed into an ecosystem of real-time web apps and microservices, used 24 hours a day by ~25 back-office staff, hundreds of clients and thousands of ground staff. 
+My first lines of company code in 2014 morphed into an ecosystem of real-time web apps and microservices used 24/7 by ~25 back-office staff, hundreds of clients and thousands of ground staff. 
 
-I recently published my first open-source project, [Hella](https://github.com/omilli/hella). I'm also working on a project that transforms natural language into GraphQL queries to query blockchain data from [The Graph](https://thegraph.com/). Once I make enough progress I'll publish it and add a link here.
+I recently published my first open-source project, [hella](https://github.com/omilli/hella). I'm also working on a project that transforms natural language into GraphQL queries to query blockchain data from [The Graph](https://thegraph.com/). Once I make enough progress I'll publish it and add a link here.
 
 As of 2025, I am looking for a new adventure in AI or web3.
 
@@ -14,25 +14,28 @@ As of 2025, I am looking for a new adventure in AI or web3.
 
 # 🦸 Alter egos
 
-I could (and do) bore people all day about technologies I use, projects I've been a part of and opinions of best practices for each and every possible situation. Instead, here are the main roles I've played over the years. Expand the drawers for further ramblings.
+I could (and do) bore people day about technologies I use, projects I've been a part of, and best practice opinions. Instead, here are the main roles I've played over the years. Expand the drawers for further ramblings.
 
 ### 🧙‍♂️ The Wizard 
 
-**tl;dr**: A remote veteran with technical, creative and management expertise. Thinks getting stuff done is more valuable than knowledge accumulation. Great at making magic... occasionally forgets how to use a pen. 
+**tl;dr**  
+A remote veteran with technical, creative and management expertise. Thinks getting stuff done is more valuable than knowledge accumulation. Great at making magic... occasionally forgets how to use a pen. 
 
 <details>
   <summary>The Lord of the Web III</summary>
   <br>
-  I consider myself a web solution architect, a full-stack developer, a UX/UI designer and a technical project manager. I'm passionate about the entire project lifecycle but now focused more on project architecture, UI development, performance, and Agile project management.
 
-  Over ten years, I have hired, trained and led ~20 remote full-time and freelance staff from Europe and Asia, and I'm responsible for a team that supports our core business 24 hours a day.
+  I consider myself a web solution architect, a full-stack developer, a UX/UI designer, and a technical project manager. I'm passionate about the entire project lifecycle but I'm now more focused on project architecture, UI development, performance, and Agile project management.
+
+  Over a decade I've hired, trained and led ~20 full-time and freelance staff from Europe and Asia remotely, and I'm responsible for a team that supports our core business 24 hours a day.
   
-  I've worked remotely with clients, designers, developers, content writers and others from the UK, Spain, Vietnam, Singapore, Russia, Estonia, Ukraine, Indonesia, Malaysia, Australia, Canada and the USA.
+  I've worked with clients, designers, developers, content writers and others from the UK, Spain, Vietnam, Singapore, Russia, Estonia, Ukraine, Indonesia, Malaysia, Australia, Canada and the USA.
 </details>
 
 ### 🧑‍🔬 The Nerd
 
-**tl;dr**: At home (literally and figuratively) building Javascript libraries or using **any** combination of dependencies for **any** project type. A blockchain enthusiast with an eye on web3 development and a basic understanding of smart contracts. `(ts > js && window > global)`
+**tl;dr**  
+At home (literally and figuratively) building Javascript libraries or using **any** combination of dependencies for **any** project type. A blockchain enthusiast with an eye on web3 development and a basic understanding of smart contracts. `(ts > js && window > global)`
 
 <details>
   <summary>javascript.readMore();</summary>
@@ -65,7 +68,8 @@ I could (and do) bore people all day about technologies I use, projects I've bee
 
 ### 🧑‍🎨 The Creator
 
-**tl;dr**: A failed website designer turned front-end developer accidentally becomes a CSS-driven UI designer. Thinks CSS Designer should be a job title. If my life depended on writing vanilla CSS in a terminal, I'd be fine.
+**tl;dr**  
+A failed website designer turned front-end developer accidentally becomes a CSS-driven UI designer. Thinks CSS Designer should be a job title. If my life depended on writing vanilla CSS in a terminal, I'd be fine.
 
 <details>
   <summary>.css-designer{read:more}</summary>
@@ -80,7 +84,8 @@ I could (and do) bore people all day about technologies I use, projects I've bee
 
 ### 👨‍💻 The Organizer
 
-**tl;dr**: Occasionally hears "you have OCD". Thinks less is more when it comes to getting the best out of people and treats life like one big project broken into a series of sprints. Loves pattern detection, problem solving, and making people's lives easier.
+**tl;dr**  
+Occasionally hears "you have OCD". Thinks less is more when it comes to getting the best out of people and treats life like one big project broken into a series of sprints. Loves pattern detection, problem solving, and making people's lives easier.
 
 
 <details>
