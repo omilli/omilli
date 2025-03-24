@@ -6,7 +6,7 @@ I'm the technical director at one of the UK's largest event and facility managem
 
 My first lines of company code in 2014 morphed into an ecosystem of real-time web apps and microservices used 24/7 by ~25 back-office staff, hundreds of clients and thousands of ground staff. 
 
-I recently published my first open-source project, [hella](https://github.com/omilli/hella). I'm also working on a project that transforms natural language into GraphQL queries to query blockchain data from [The Graph](https://thegraph.com/). Once I make enough progress I'll publish it and add a link here.
+I recently published my first open-source project, [hella](https://github.com/omilli/hella). I'm also working on a peer-to-peer LLM project that runs in the browser.
 
 As of 2025, I am looking for a new adventure in AI or web3.
 
