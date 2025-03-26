@@ -14,7 +14,7 @@ As of 2025, I am looking for a new adventure in AI or web3.
 
 # 🦸 Alter egos
 
-I could (and do) bore people day about technologies I use, projects I've been a part of, and best practice opinions. Instead, here are the main roles I've played over the years. Expand the drawers for further ramblings.
+I could (and do) bore people all day about technologies I use, projects I've been a part of, and best practice opinions. Instead, here are the main roles I've played over the years. Expand the drawers for further ramblings.
 
 ### 🧙‍♂️ The Wizard 
 
