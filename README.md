@@ -4,7 +4,7 @@ I've been writing code and building on the web professionally for ~15 years, nea
 
 I'm the technical director at one of the UK's largest event and facility management companies, and I'm responsible for delivering web apps used at some of the UK's largest events, static locations, and public spaces.
 
-My first lines of company code in 2014 morphed into an ecosystem of real-time web apps and microservices used 24/7 by ~25 back-office staff, hundreds of clients and thousands of ground staff. 
+My first lines of company code in 2014 morphed into an ecosystem of real-time web apps and microservices used 24/7 by dozens of back-office staff, hundreds of clients and thousands of ground staff. 
 
 I recently published my first open-source project, [hella](https://github.com/omilli/hella). I'm also working on a peer-to-peer LLM project that runs in the browser.
 
