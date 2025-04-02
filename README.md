@@ -2,15 +2,9 @@
 
 I've been coding for nearly two decades, with over 15 years of those being in a professional capacity. Traditional academia wasn't for me, so I started working with computers after attending a musical academy. Around 2006, I got my first taste of HTML & CSS and spent the next 4 years studying and freelancing before landing my first full-time front-end developer position. My colleagues called me "CSS Master" early in my career, and I fell in love with JavaScript building UI components using jQuery.
 
-I'm the technical director at one of the UK's largest event and facility management companies, and I'm responsible for delivering web apps used at some of the UK's largest events, static locations, and public spaces.
+My core technical skills are still advanced JavaScript & CSS in all their flavours. I would describe my perfect technical role as "Interface Engineer", but you can also find me crafting databases, APIs and CLI tools. At the moment, I'm enjoying working with package-based monorepos, and I recently published my first open-source JavaScript project, hella. I'm also working on a peer-to-peer LLM project that runs in the browser iplm.
 
-My first lines of company code in 2014 morphed into an ecosystem of real-time web apps and microservices used 24/7 by dozens of back-office staff, hundreds of clients and thousands of ground staff. 
-
-I recently published my first open-source JavaScript project, [hella](https://github.com/omilli/hella). I'm also working on a peer-to-peer LLM project that runs in the browser [iplm](https://github.com/omilli/iplm).
-
-As of 2025, I am looking for a new adventure in AI or web3.
-
-*Auto-correct is simultaneously humanity's best and worst invention - **change my mind***.
+I'm the technical director at one of the UK's largest event and facility management companies, and I'm responsible for delivering web apps used at some of the UK's largest events, static locations, and public spaces. My first lines of company code in 2014 morphed into an ecosystem of real-time web apps and microservices used 24/7 by dozens of back-office staff, hundreds of clients and thousands of ground staff. 
 
 # 🦸 Alter egos
 
