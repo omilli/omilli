@@ -1,4 +1,4 @@
-### 💻🏖️⛳🎾🥩🍷
+# A Bit About Me
 
 I've been coding for nearly two decades, with over 15 years of those being in a professional capacity. Traditional academia wasn't for me, so I started working with computers after attending a musical academy. Around 2006, I got my first taste of HTML & CSS and spent the next 4 years studying and freelancing before landing my first full-time front-end developer position. My colleagues called me "CSS Master" early in my career, and I fell in love with JavaScript building UI components using jQuery.
 
