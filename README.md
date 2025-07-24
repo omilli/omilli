@@ -6,4 +6,4 @@ I recently published my first open-source JavaScript project, [hellajs](https:/
 
 Since 2014, I've hired, trained and led 20-30 professionals from Europe and Asia in fully remote, cross-functional Agile teams.
 
-I've worked with clients, designers, developers, content writers and others from the UK, Spain, Vietnam, Singapore, Russia, Estonia, Ukraine, Indonesia, Malaysia, Australia, Canada and the USA.
+I've worked with clients, designers, developers, content writers and others from the UK, Spain, Vietnam, Singapore, Russia, Estonia, Ukraine, Indonesia, Malaysia, Australia, Canada and USA.
